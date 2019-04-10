@@ -1,0 +1,24 @@
+---
+ID: 21100
+post_title: 5 takeaways from the Israeli elections
+author: Jessica Goldberg
+post_excerpt: |
+  For those catching up, here are five takeaways from Tuesday's Israeli election: Bibi Survives.
+  Netanyahu was initially elected back in 1996, but was driven into the political wilderness by 1999.
+  With 95% of the vote counted, his Likud party tied with the center-left Blue and White Party with 35 seats apiece.
+  As things stand, Netanyahu has been prime minister for nearly 20% of Israel's existence.
+  The outcome of the elections, and the fragile coalition Netanyahu will have to put together, will make it very unlikely he'd be able to support any sort of President Trump-Jared Kushner peace plan proposal.
+  Any plan that involves significant Israeli concessions to get buy-in from Arab countries is almost certainly going to be opposed by Netanyahu's right-wing coalition partners with the power to bring down the government.
+  The religious Zionist Union of Right Wing Parties in particular will be an obstacle, and they currently have five seats, which means without their involvement alone, Netanyahu would be down to 60 seats and thus lack a majority.
+  What happened is that in the Israeli system, to qualify for the Knesset, any party has to win at least 4 seats, or 3.25% of the vote, or else its votes are tossed out and the seats are re-allocated among the larger parties that meet the threshold.
+  Netanyahu was concerned that too many right-wing votes would go to waste, so he brokered a deal that brought the Jewish Power party into the Union of Right-Wing Parties.
+  But boosted by massive turnout, the two largest ultra-Orthodox parties (Shas and United Torah Judaism) won eight seats each, tying them for the third largest party in the Knesset, and ensuring that they'll represent the largest bloc of votes within the new Netanyahu government after his own Likud.
+layout: post
+permalink: >
+  http://www.dogcouturecountry.com/2019/04/10/5-takeaways-from-the-israeli-elections/
+published: true
+post_date: 2019-04-10 16:02:50
+---
+<p class="article-info-author-source"> <span>Author: Philip Klein</span>&nbsp;/&nbsp;<span>Source: <a href="https://www.washingtonexaminer.com/opinion/5-takeaways-from-the-israeli-elections" target="_blank">Washington Examiner</a></span> </p> <p>With nearly all the votes now counted, it's safe to say that Israeli Prime Minister Benjamin Netanyahu has been reelected. For those catching up, here are five takeaways from Tuesday's Israeli election:</p>
+<p><b>Bibi Survives.</b> This of course is the biggest takeaway, and love him or hate him, it's a testament to his incredible resilience. Netanyahu was initially elected back in 1996, but was driven into the political wilderness by 1999. Yet a decade after his failed premiership, he was back in power, and after a decade as the nation's leader, he's about to start a record fifth term. This was far from a guarantee. Facing indictment for corruption and a strong challenge from a newly formed center-left alliance, he found himself in <a href="https://www.washingtonexaminer.com/opinion/polls-show-netanyahu-in-trouble-in-israeli-elections-as-top-rivals-form-united-front">the fight of his political life</a>. With 95% of the vote counted, his Likud party tied with the center-left Blue and White Party with 35 seats apiece. However, the right-wing bloc of parties gained a total of 65 seats, compared to 55 for the left-wing bloc, meaning Netanyahu is in a much stronger position to form a government, which requires a majority of 61 in the nation's parliament, the Knesset. As things stand, Netanyahu has been prime minister for nearly 20% of Israel's existence.</p>
+<p><b>RIP Trump-Kushner peace plan.</b> The outcome of the elections, and the fragile coalition Netanyahu will have to put together, will make it very unlikely he'd be able to support any sort of President Trump-Jared Kushner peace plan proposal. Any plan that involves significant Israeli concessions to get buy-in from Arab countries is almost certainly going to be opposed by Netanyahu's right-wing coalition partners with the power to bring down the government. The religious Zionist Union of Right Wing Parties in particular will be an obstacle, and they currently have five seats, which means without their involvement alone, Netanyahu would be down to 60 seats and thus lack a majority. Add to this the fact that Netanyahu will be facing indictment, and it's hard...</p> <p class="article-info-more"> <a href="https://www.washingtonexaminer.com/opinion/5-takeaways-from-the-israeli-elections" target="_blank">Click here to read more</a> </p>
