@@ -1,0 +1,43 @@
+---
+ID: 21191
+post_title: >
+  Trump moves to resist House inquiries,
+  setting up fight over congressional
+  subpoena powers
+author: Jessica Goldberg
+post_excerpt: |
+  President Trump’s attorneys and the White House are moving to resist a growing number of congressional requests for information, increasing the likelihood of a protracted legal fight that could test the power of congressional subpoenas.
+  White House officials are already digging in their heels on a slew of requests related to Trump’s actions as president.
+  White House Counsel Pat Cipollone and the president’s legal team are preparing for an extensive legal battle, if necessary, over subpoenas from Congress, aides said.
+  Separately, two other House committees issued subpoenas to several banks Monday for information about Trump’s finances — drastically ratcheting up the stakes for the president, who is particularly angry about efforts to pry into his business, aides said.
+  Separately, the House Oversight Committee issued a subpoena late Monday to Mazars USA, Trump’s accounting firm, for all financial information the firm has prepared or reviewed for the president’s company and foundation.
+  William Consovoy and Stefan Passantino, attorneys for the president and his company, wrote in a letter to Mazars USA on Monday that a subpoena from the Oversight Committee “would have no legitimate legislative purpose” and requested that the firm provide them with 10 days’ notice of its actions “so that we may take appropriate legal steps to protect our clients’ rights.” Rep. Elijah E. Cummings (D-Md.
+  The slew of demands from the House committees has infuriated Trump, who has told aides that he does not want to cooperate with the inquiries, according to people familiar with his thinking.
+  The White House declined to comment.
+  They’re fighting us on release of the uncensored Mueller report, they’re fighting us on the president’s taxes .
+  they basically have decided that they want to thwart congressional oversight power,” said Raskin.
+layout: post
+permalink: >
+  http://www.dogcouturecountry.com/2019/04/17/trump-moves-to-resist-house-inquiries-setting-up-fight-over-congressional-subpoena-powers/
+published: true
+post_date: 2019-04-17 15:26:21
+---
+<p class="article-info-author-source"> <span>Source: <a href="https://www.washingtonpost.com/politics/trump-moves-to-resist-house-inquiries-setting-up-fight-over-congressional-subpoena-powers/2019/04/16/49f4c75c-6057-11e9-9412-daf3d2e67c6d_story.html?noredirect=on" target="_blank">Washington Post</a></span> </p> <figure><img data-hi-res-src="https://www.washingtonpost.com/resizer/64sUfWJ89KC9dBhMLwyOaO2AMKc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IXXWJGC7ZEI6TH7SVPEYJXE65Q.jpg" sizes="(min-width: 768px) 50vw, 100vw" src="https://www.washingtonpost.com/resizer/64sUfWJ89KC9dBhMLwyOaO2AMKc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IXXWJGC7ZEI6TH7SVPEYJXE65Q.jpg" srcset="https://www.washingtonpost.com/resizer/_DySXKJ_rxHHDuPp4TFnzMqKvuI=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IXXWJGC7ZEI6TH7SVPEYJXE65Q.jpg 480w,https://www.washingtonpost.com/resizer/64sUfWJ89KC9dBhMLwyOaO2AMKc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IXXWJGC7ZEI6TH7SVPEYJXE65Q.jpg 1484w">
+<figcaption>The slew of demands from the House committees has infuriated President Trump, who has told aides that he does not want to cooperate with the inquiries. (Adam Bettcher/Getty Images)</figcaption>
+</figure>
+<p>President Trump’s attorneys and the White House are moving to resist a growing number of congressional requests for information, increasing the likelihood of a protracted legal fight that could test the power of congressional subpoenas.</p>
+<p>The building battle will shape how much material House Democrats will be able to obtain about Trump’s policies and personal finances through multiple investigations launched by various congressional committees.</p>
+<p>White House officials are already digging in their heels on a slew of requests related to Trump’s actions as president. The administration does not plan to turn over information being sought about how particular individuals received their security clearances, Trump’s meetings with foreign leaders and other topics that they plan to argue are subject to executive privilege, according to several aides familiar with internal discussions.</p>
+<p>White House Counsel Pat Cipollone and the president’s legal team are preparing for an extensive legal battle, if necessary, over subpoenas from Congress, aides said.</p>
+<p>On Monday, Trump’s private attorneys warned his accounting firm not to comply with a subpoena from the House Oversight and Reform Committee. Separately, two other House committees <a href="https://www.washingtonpost.com/world/national-security/house-democrats-subpoena-deutsche-bank-other-financial-institutions-tied-to-trump/2019/04/15/00d0042e-5fee-11e9-9ff2-abc984dc9eec_story.html?utm_term=.5ea520a3cc07">issued subpoenas</a> to several banks Monday for information about Trump’s finances — drastically ratcheting up the stakes for the president, who is particularly angry about efforts to pry into his business, aides said.</p>
+<p>Rudolph W. Giuliani, one of Trump’s attorneys, said he has urged the president not to cooperate with congressional Democrats’ requests because, he argues, they ultimately want to impeach him. “I wouldn’t cooperate with any of them,” he said. “I’d fight it tooth and nail.”</p>
+<p>House Democrats said Tuesday that they are resolute about issuing subpoenas where necessary and pursuing them to the full extent of the law. They said they have little confidence that the Justice Department under Attorney General William P. Barr will enforce contempt actions if their demands are flouted, but they believe subpoenas can be enforced through civil litigation.</p>
+<p>“The Trump administration for some reason feels that the subpoena power that’s wielded by Congress is weak and that courts will side with the Trump administration in any kind of dispute about the validity of using that power to produce documents,” said Rep. Raja Krishnamoorthi (D-Ill.), a member of the House Oversight and Intelligence committees. “That kind of overconfidence might be very wrong.”</p>
+<p>However, the resulting legal battles could be extensive, expensive and unpredictable, based on past litigation over congressional subpoenas.</p>
+<p>“This is clearly going to take time to resolve — the question is how long,” said Mark Gitenstein, who served as chief counsel to the Senate Judiciary Committee in the 1980s.</p>
+<p>Going to court over and over again to fight to enforce lawmakers’ demands will take resources and, critically, precious time that Congress may not have. Congressional subpoenas — and any criminal contempt proceedings that may follow — expire at the end of a congressional session, which could make matters moot after the 2020 election.</p>
+<p>“Undoubtedly, it will be in the legislative interest to request expedited action by the courts,” said Rep. Jamie B. Raskin (D-Md.). “Here, justice delayed is democracy denied.”</p>
+<p>House Democratic legal advisers have been poring over past congressional subpoena litigation as a guide as they map out their strategy.</p>
+<p>One key test came in 2007, when a House panel sought information from then-White House counsel Harriet Miers about President George W. Bush’s efforts to fire U.S. attorneys. The White House objected to her providing information, citing executive privilege, and it was two years before she was required to testify.</p>
+<p>During Barack Obama’s presidency, then-Attorney General Eric H. Holder Jr. faced a subpoena and <a href="https://www.washingtonpost.com/politics/eric-holder/gIQAF5RR9O_print.html">a contempt resolution</a> from the House Oversight Committee, which was seeking information about a controversial border law enforcement program called “Fast and Furious.” The effort to secure information from Holder began in 2011 but was not resolved until 2016, long after he left office.</p>
+<p>The Senate Permanent Subcommittee on Investigations got faster results in 2015 when it sought information from the company Backpage.com as...</p> <p class="article-info-more"> <a href="https://www.washingtonpost.com/politics/trump-moves-to-resist-house-inquiries-setting-up-fight-over-congressional-subpoena-powers/2019/04/16/49f4c75c-6057-11e9-9412-daf3d2e67c6d_story.html?noredirect=on" target="_blank">Click here to read more</a> </p>
