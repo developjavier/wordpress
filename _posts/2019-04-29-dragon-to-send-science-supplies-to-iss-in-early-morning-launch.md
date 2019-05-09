@@ -1,0 +1,34 @@
+---
+ID: 21254
+post_title: >
+  Dragon to send science, supplies to ISS
+  in early-morning launch
+author: Jessica Goldberg
+post_excerpt: |
+  CAPE CANAVERAL, Fla. — SpaceX is gearing up for another cargo Dragon flight to the International Space Station, sending food, supplies and experiments slated for Expeditions 59 and 60.
+  Originally, the Falcon 9 rocket and Dragon spacecraft were tracking to fly April 26, but constraints in orbital mechanics made May 1 a better choice.
+  Once it does get off the ground, CRS-17 will be the 17th SpaceX cargo flight to the ISS under NASA’s Commercial Resupply Services contract and the second of five under the extension of phase 1.
+  The recent incident at Cape Canaveral Air Force Station’s Landing Zone 1 involving a static fire test of the SuperDraco engines on the crewed version of the Dragon spacecraft has not deterred SpaceX or NASA from launching the CRS-17 mission.
+  SpaceX’s cargo missions to the ISS typically involve the Falcon 9’s first stage returning to Landing Zone 1.
+  When in orbit, CRS-17 Dragon should take about two days to rendezvous with the ISS, ultimately positioning itself about 33 feet (10 meters) below the Destiny module.
+  NASA astronaut Nick Hague is expected to serve as Saint-Jacques backup with NASA’s Christina Koch assisting by monitoring telemetry during Dragon’s approach, the U.S. space agency said.
+  This includes two instruments in the spacecraft’s external storage area inside its trunk: Orbiting Carbon Observatory 3 (OCO-3) and Space Test Program-Houston 6 (STP-H6) According to NASA, OCO-3 was manufactured using spare parts from OCO-2 and is planned to be attached to the exposed facility on the Japanese Kibo module at the front of the ISS.
+  STP-H6 is an X-ray communication demonstration, according to NASA.
+  NICER is already aboard the ISS (it was brought to the outpost by CRS-11 in June 2017) and attached to External Logistics Carrier-2 on the S3 truss.
+layout: post
+permalink: >
+  http://www.dogcouturecountry.com/2019/04/29/dragon-to-send-science-supplies-to-iss-in-early-morning-launch/
+published: true
+post_date: 2019-04-29 16:35:18
+---
+<p class="article-info-author-source"> <span>Author: Joe Latrell</span>&nbsp;/&nbsp;<span>Source: <a href="https://www.spaceflightinsider.com/organizations/space-exploration-technologies/dragon-to-send-science-supplies-to-iss-in-early-morning-launch/" target="_blank">SpaceFlight Insider</a></span> </p> <figure><img alt="A file photo of the CRS-16 Dragon spacecraft, which was launched to the ISS in December 2018. CRS-17 is planned to launch in May 2019. Photo Credit: Michael Howard / SpaceFlight Insider" sizes="(max-width: 1280px) 100vw, 1280px" src="https://www.spaceflightinsider.com/wp-content/uploads/2019/04/CRS16_8583.jpg" srcset="https://www.spaceflightinsider.com/wp-content/uploads/2019/04/CRS16_8583.jpg 1300w, https://www.spaceflightinsider.com/wp-content/uploads/2019/04/CRS16_8583-300x200.jpg 300w, https://www.spaceflightinsider.com/wp-content/uploads/2019/04/CRS16_8583-768x512.jpg 768w, https://www.spaceflightinsider.com/wp-content/uploads/2019/04/CRS16_8583-655x437.jpg 655w, https://www.spaceflightinsider.com/wp-content/uploads/2019/04/CRS16_8583-1280x854.jpg 1280w, https://www.spaceflightinsider.com/wp-content/uploads/2019/04/CRS16_8583-640x427.jpg 640w">
+<figcaption>A file photo of the CRS-16 Dragon spacecraft, which was launched to the ISS in December 2018. CRS-17 is planned to launch in May 2019. Photo Credit: Michael Howard / SpaceFlight Insider</figcaption>
+</figure>
+<p>CAPE CANAVERAL, Fla. — SpaceX is gearing up for another cargo Dragon flight to the International Space Station, sending food, supplies and experiments slated for Expeditions 59 and 60.</p>
+<p>The CRS-17 mission is scheduled to launch atop a Block 5 Falcon 9 at 3:59 a.m. EDT (7:59 GMT) May 1, 2019, from Space Launch Complex 40 at Cape Canaveral Air Force Station. Originally, the Falcon 9 rocket and Dragon spacecraft were tracking to fly April 26, but constraints in orbital mechanics made <a href="https://www.spaceflightinsider.com/organizations/space-exploration-technologies/spacex-aiming-for-may-1-for-next-cargo-dragon-launch/">May 1</a> a better choice.</p>
+<p>According to the 45th Weather Squadron April 29, the forecast for launch is expected to have an <a href="https://www.patrick.af.mil/Portals/14/Weather/L-3%20Forecast%201%20May%2019%20Launch.pdf?ver=2019-04-28-114627-263">80% chance</a> of acceptable conditions at liftoff with the primary concerns being cumulus clouds and flight through precipitation. Should the mission be postponed an additional 24 hours, conditions are expected to be less favorable with a 30% chance of a weather rule violation.</p>
+<figure><img alt="Expedition 59 astronauts Anne McClain and David Saint-Jacques of NASA and the Canadian Space Agency, respectively, practice Canadarm2 robotics maneuvers using the robotics workstation. in the Destiny module. Photo Credit: NASA" sizes="(max-width: 450px) 100vw, 450px" src="https://www.spaceflightinsider.com/wp-content/uploads/2019/04/40670091543_3b07366bdd_k.jpg" srcset="https://www.spaceflightinsider.com/wp-content/uploads/2019/04/40670091543_3b07366bdd_k-655x436.jpg 655w, https://www.spaceflightinsider.com/wp-content/uploads/2019/04/40670091543_3b07366bdd_k-300x200.jpg 300w, https://www.spaceflightinsider.com/wp-content/uploads/2019/04/40670091543_3b07366bdd_k-768x512.jpg 768w, https://www.spaceflightinsider.com/wp-content/uploads/2019/04/40670091543_3b07366bdd_k-1280x853.jpg 1280w, https://www.spaceflightinsider.com/wp-content/uploads/2019/04/40670091543_3b07366bdd_k-640x426.jpg 640w, https://www.spaceflightinsider.com/wp-content/uploads/2019/04/40670091543_3b07366bdd_k.jpg 1600w">
+<figcaption>Expedition 59 astronauts Anne McClain and David Saint-Jacques of NASA and the Canadian Space Agency, respectively, practice Canadarm2 robotics maneuvers using the robotics workstation. in the Destiny module. Photo Credit: NASA</figcaption>
+</figure>
+<p>Once it does get off the ground, CRS-17 will be the 17th SpaceX cargo flight to the ISS under NASA’s Commercial Resupply Services contract and the second of five under the extension of phase 1. Phase 2, called CRS2, is expected to begin for the company starting with CRS-21 no earlier than 2020.</p>
+<p>The <a href="https://www.spaceflightinsider.com/organizations/space-exploration-technologies/spacex-crew-dragon-suffers-apparent-explosion-on-test-stand/">recent incident</a> at Cape Canaveral Air...</p> <p class="article-info-more"> <a href="https://www.spaceflightinsider.com/organizations/space-exploration-technologies/dragon-to-send-science-supplies-to-iss-in-early-morning-launch/" target="_blank">Click here to read more</a> </p>
